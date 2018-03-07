@@ -2,7 +2,8 @@
 ## [LinkedIn profile](https://www.linkedin.com/in/smrity-chaudhary-15a860b1/)
 
 ## TECHNICAL SKILLS
-### Languages: python, R, C++ , Database : MySQL
+### Languages : python, R, C++ 
+### Database : MySQL
 
 ## TECHNICAL ACTIVITIES
 ### Amazon alexa skills
